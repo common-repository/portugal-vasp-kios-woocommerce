@@ -1,0 +1,47 @@
+.pvkw_shipping_method_instructions {
+	font-size: 0.8em;
+}
+#pvkw {
+	margin-bottom: 2em;
+	padding: 0.5em;
+}
+#pvkw > p > label {
+	display: block !important;
+}
+#pvkw #vaspkios_img {
+	width: 52px;
+	height: auto;
+	display: inline;
+	float: right;
+	margin-left: 0.5em;
+}
+.pvkw-points-fragment {
+	margin-top: 1em;
+	display: block !important;
+}
+.pvkw-points-fragment .select2-container {
+	display: block !important;
+	width: 100% !important;
+}
+.pvkw-points-fragment-point-details {
+	display: block;
+	margin-top: 1em;
+}
+.pvkw-points-fragment-point-details small {
+	font-size: 80%;
+}
+.pvkw-points-fragment-point-details.updating {
+	opacity: 0.25;
+}
+#pvkw-points-fragment-point-details-address {
+	display: block;
+}
+#pvkw-points-fragment-point-details-map {
+	display: block;
+	float: right;
+	margin-left: 1em;
+}
+.pvkw-clear {
+	display: block;
+	clear: both;
+}

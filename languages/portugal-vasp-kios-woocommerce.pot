@@ -1,0 +1,222 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Portugal VASP Kios WooCommerce\n"
+"POT-Creation-Date: 2021-03-10 17:31+0000\n"
+"PO-Revision-Date: 2018-02-26 18:59+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: portugal-vasp-kios-woocommerce.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: portugal-vasp-kios-woocommerce.php:133
+#: portugal-vasp-kios-woocommerce.php:150
+#: portugal-vasp-kios-woocommerce.php:170
+#: portugal-vasp-kios-woocommerce.php:187
+msgid "VASP Expresso Kios in Portugal"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:135
+#: portugal-vasp-kios-woocommerce.php:152
+#: portugal-vasp-kios-woocommerce.php:172
+msgid ""
+"Shows a field to select a point from the VASP Expresso Kios network in "
+"Portugal"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:138
+#: portugal-vasp-kios-woocommerce.php:155
+#: portugal-vasp-kios-woocommerce.php:175
+#: portugal-vasp-kios-woocommerce.php:189
+msgid "No"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:139
+#: portugal-vasp-kios-woocommerce.php:156
+#: portugal-vasp-kios-woocommerce.php:176
+#: portugal-vasp-kios-woocommerce.php:190
+msgid "Yes"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:266
+msgid "Select the VASP Expresso Kios point"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:343
+msgid "Select point"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:345
+msgid "Near you"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:356
+msgid "Other spots"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:378
+#: portugal-vasp-kios-woocommerce.php:628
+msgid ""
+"ERROR: There are no VASP Expresso Kios points in the database. The update "
+"process has not yet ended successfully."
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:451
+#: portugal-vasp-kios-woocommerce.php:908
+msgid "Phone:"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:456
+#: portugal-vasp-kios-woocommerce.php:913
+msgid "Work days:"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:460
+#: portugal-vasp-kios-woocommerce.php:917
+msgid "Saturday:"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:464
+#: portugal-vasp-kios-woocommerce.php:921
+msgid "Sunday:"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:514
+msgid "You need to select a <strong>VASP Expresso Kios point</strong>."
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:589
+#: portugal-vasp-kios-woocommerce.php:931
+#: portugal-vasp-kios-woocommerce.php:934
+msgid "VASP Expresso Kios point"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:598
+msgid "Unable to find point on the database"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:615
+msgid "VASP Expresso Kios points updated."
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:621
+msgid "It was not possible to update the VASP Expresso Kios points."
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:629
+msgid "Click here to force the update process"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:812
+msgid "VASP Expresso Kios network in Portugal"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:813
+msgid "Total of points to show"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:821
+msgid "Near by points to show"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:829
+msgid ""
+"Do not pre-select a point in the VASP Expresso Kios field and force the "
+"client to choose it"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:836
+msgid "Instructions for clients"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:838
+msgid ""
+"Pick up your order in one of the more than 600 VASP Expresso Kios points "
+"available in Portugal mainland"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:843
+msgid "Mapbox Public Token (recommended)"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:843
+#: portugal-vasp-kios-woocommerce.php:852
+msgid "Get one"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:844
+msgid ""
+"Go to your Mapbox account and get a Public Token, if you want to use this "
+"service static maps instead of Google Maps"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:852
+msgid "Google Maps API Key"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:853
+msgid ""
+"Go to the Google APIs Console and create a project, then go to the Static "
+"Maps API documentation website and click on Get a key, choose your project "
+"and generate a new key (if the Mapbox public token is filled in, this will "
+"be ignored and can be left blank)"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:861
+msgid ""
+"Display the VASP Expresso Kios point information on emails sent to the "
+"customer and order details on the \"My Account\" page"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:868
+msgid "Hide shipping address on order details and emails sent to the customer"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:875
+msgid ""
+"Display the VASP Expresso Kios point phone number (if available) on the "
+"checkout"
+msgstr ""
+
+#: portugal-vasp-kios-woocommerce.php:882
+msgid ""
+"Display the VASP Expresso Kios point opening/closing hours (if available) on "
+"the checkout"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Portugal VASP Expresso Kios network for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://www.webdados.pt/wordpress/plugins/rede-vasp-expresso-kios-em-"
+"portugal-para-woocommerce-wordpress/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Lets you deliver on the VASP Expresso Kios network of partners. This is not "
+"a shipping method. This is an add-on for any shipping method you activate it "
+"on."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Webdados"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.webdados.pt"
+msgstr ""
